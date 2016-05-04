@@ -1,0 +1,15 @@
+{
+  "name": "meadowlark.js",
+  "version": "1.0.0",
+  "description": "A travel website made using an express and node.js book",
+  "main": "meadowlark.js",
+  "scripts": {
+    "test": "node meadowlark.js"
+  },
+  "author": "Zachary Shakked",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.4",
+    "express-handlebars": "^3.0.0"
+  }
+}
